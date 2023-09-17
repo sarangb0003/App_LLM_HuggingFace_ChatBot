@@ -1,6 +1,7 @@
 #  Chat App using Hugging Face LLM Model 
 ```
-- Created a Simple Question Answering chatbot App using streamlit which will generate Human like answers to your questions.  
+Created a Simple Question Answering chatbot App using streamlit which will generate Human
+like answers to your questions.  
 ```
 
 ## Pre-requisites
