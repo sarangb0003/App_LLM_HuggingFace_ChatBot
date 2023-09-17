@@ -24,5 +24,5 @@ Founds two interesting answers from model output:
 
 ## Future Work
 
--- Fine tune the model with custom data for specific use case
--- Improve accuracy 
+- Fine tune the model with custom data for specific use case
+- Improve accuracy 
