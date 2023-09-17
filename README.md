@@ -16,10 +16,10 @@ like answers to your questions.
 ## Obsrevations
 
 Founds two interesting answers from model output:
-1) For question "how to write resume for Data science position ?"<br>
+1) For question "how to write resume for Data science position ?" <br>
 --> It has written the answer specific to data science field.
 
-2) For question "write python code to Combine two lists and remove duplicates without using set function"<br>
+2) For question "write python code to Combine two lists and remove duplicates without using set function" <br>
 --> provided the code with no use of set() python code as expected.
 
 ## Future Work
